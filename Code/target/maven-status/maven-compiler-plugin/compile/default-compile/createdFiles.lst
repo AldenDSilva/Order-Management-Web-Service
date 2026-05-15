@@ -1,0 +1,14 @@
+assignment\controller\OrderController.class
+assignment\service\OrderService.class
+assignment\model\Order.class
+assignment\config\AppConfig.class
+assignment\repository\ProductRepository.class
+assignment\dto\WSSProduct.class
+assignment\controller\ProductController.class
+assignment\model\Order$OrderStatus.class
+assignment\model\Product.class
+assignment\repository\OrderRepository.class
+assignment\service\ProductService.class
+assignment\model\Customer.class
+assignment\service\AuthenticationService.class
+assignment\AssignmentApplication.class

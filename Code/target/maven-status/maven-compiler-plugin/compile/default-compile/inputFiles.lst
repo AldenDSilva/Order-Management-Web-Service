@@ -1,0 +1,13 @@
+C:\Users\AldenUni\Documents\University\Y4_S1\W.S\Assignment\Solution\Code\assignment\src\main\java\assignment\AssignmentApplication.java
+C:\Users\AldenUni\Documents\University\Y4_S1\W.S\Assignment\Solution\Code\assignment\src\main\java\assignment\config\AppConfig.java
+C:\Users\AldenUni\Documents\University\Y4_S1\W.S\Assignment\Solution\Code\assignment\src\main\java\assignment\controller\OrderController.java
+C:\Users\AldenUni\Documents\University\Y4_S1\W.S\Assignment\Solution\Code\assignment\src\main\java\assignment\controller\ProductController.java
+C:\Users\AldenUni\Documents\University\Y4_S1\W.S\Assignment\Solution\Code\assignment\src\main\java\assignment\dto\WSSProduct.java
+C:\Users\AldenUni\Documents\University\Y4_S1\W.S\Assignment\Solution\Code\assignment\src\main\java\assignment\model\Customer.java
+C:\Users\AldenUni\Documents\University\Y4_S1\W.S\Assignment\Solution\Code\assignment\src\main\java\assignment\model\Order.java
+C:\Users\AldenUni\Documents\University\Y4_S1\W.S\Assignment\Solution\Code\assignment\src\main\java\assignment\model\Product.java
+C:\Users\AldenUni\Documents\University\Y4_S1\W.S\Assignment\Solution\Code\assignment\src\main\java\assignment\repository\OrderRepository.java
+C:\Users\AldenUni\Documents\University\Y4_S1\W.S\Assignment\Solution\Code\assignment\src\main\java\assignment\repository\ProductRepository.java
+C:\Users\AldenUni\Documents\University\Y4_S1\W.S\Assignment\Solution\Code\assignment\src\main\java\assignment\service\AuthenticationService.java
+C:\Users\AldenUni\Documents\University\Y4_S1\W.S\Assignment\Solution\Code\assignment\src\main\java\assignment\service\OrderService.java
+C:\Users\AldenUni\Documents\University\Y4_S1\W.S\Assignment\Solution\Code\assignment\src\main\java\assignment\service\ProductService.java
