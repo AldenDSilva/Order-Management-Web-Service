@@ -11,6 +11,14 @@ It also allows customers to view products up for sale, place orders, check on pr
 REST design principles:
 resource identification, addressability, resource representation, statelessness, uniform interface, and HATEOAS
 
+## Key Features
+
+-	Product management (add and update pricing from wholesaler)
+-	Customer order creation, tracking, and cancellation
+-	Order status management (shipped / out of stock)
+-	Revenue tracking per customer
+-	Integration with external wholesaler API
+
 ## Further Development
 - The service may automatically change the status of an unshipped order to “out of stock” if
 the wholesaler’s stock levels are too low to fulfil the order, or if the current wholesale price
